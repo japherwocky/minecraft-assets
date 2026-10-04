@@ -4605,7 +4605,7 @@
   },
   {
     "name": "compass",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAJFBMVEUAAAAYFxdeXl6CgoKoqKjY2Nj///9kZGT/FBRPTU0vLy81NTVti5pMAAAAAXRSTlMAQObYZgAAAFdJREFUeNqNzzkSwDAIQ9GAgARz//vGFpOltLr/GoZjc8X90gwKfUgUNeZKVbqZ1yKKsAmjPsjrfMFaVoOAiMEB2eAeYe7QzD4zw2GmupoiRhB2E7f55w0LVwN71tkVpQAAAABJRU5ErkJggg=="
   },
   {
     "name": "recovery_compass",
@@ -6581,35 +6581,35 @@
   },
   {
     "name": "copper_golem_statue",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEXIdFbCa0yyYkenWkCaUDiQSTHjgmzWe1s3kGrsAAAAb0lEQVR42k3OQQ4DQQwCwQbb+P8/jmZHyYYLKnGBJJvdnCwqAhJsdldyE+KvYzeR+5hn9xDB7oJUZQ153SUPYfPaQ/4sM+Sxr2G4dpUk2CbXvk6TY1u695oorq/NELstH69bQ+rnRWq2q3t6qp7uD8OpAyPRbObpAAAAAElFTkSuQmCC"
   },
   {
     "name": "exposed_copper_golem_statue",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEXIdFbCa0yyYkenWkCaUDiQSTHjgmzWe1s3kGrsAAAAb0lEQVR42k3OQQ4DQQwCwQbb+P8/jmZHyYYLKnGBJJvdnCwqAhJsdldyE+KvYzeR+5hn9xDB7oJUZQ153SUPYfPaQ/4sM+Sxr2G4dpUk2CbXvk6TY1u695oorq/NELstH69bQ+rnRWq2q3t6qp7uD8OpAyPRbObpAAAAAElFTkSuQmCC"
   },
   {
     "name": "weathered_copper_golem_statue",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEXIdFbCa0yyYkenWkCaUDiQSTHjgmzWe1s3kGrsAAAAb0lEQVR42k3OQQ4DQQwCwQbb+P8/jmZHyYYLKnGBJJvdnCwqAhJsdldyE+KvYzeR+5hn9xDB7oJUZQ153SUPYfPaQ/4sM+Sxr2G4dpUk2CbXvk6TY1u695oorq/NELstH69bQ+rnRWq2q3t6qp7uD8OpAyPRbObpAAAAAElFTkSuQmCC"
   },
   {
     "name": "oxidized_copper_golem_statue",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEXIdFbCa0yyYkenWkCaUDiQSTHjgmzWe1s3kGrsAAAAb0lEQVR42k3OQQ4DQQwCwQbb+P8/jmZHyYYLKnGBJJvdnCwqAhJsdldyE+KvYzeR+5hn9xDB7oJUZQ153SUPYfPaQ/4sM+Sxr2G4dpUk2CbXvk6TY1u695oorq/NELstH69bQ+rnRWq2q3t6qp7uD8OpAyPRbObpAAAAAElFTkSuQmCC"
   },
   {
     "name": "waxed_copper_golem_statue",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEXIdFbCa0yyYkenWkCaUDiQSTHjgmzWe1s3kGrsAAAAb0lEQVR42k3OQQ4DQQwCwQbb+P8/jmZHyYYLKnGBJJvdnCwqAhJsdldyE+KvYzeR+5hn9xDB7oJUZQ153SUPYfPaQ/4sM+Sxr2G4dpUk2CbXvk6TY1u695oorq/NELstH69bQ+rnRWq2q3t6qp7uD8OpAyPRbObpAAAAAElFTkSuQmCC"
   },
   {
     "name": "waxed_exposed_copper_golem_statue",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEXIdFbCa0yyYkenWkCaUDiQSTHjgmzWe1s3kGrsAAAAb0lEQVR42k3OQQ4DQQwCwQbb+P8/jmZHyYYLKnGBJJvdnCwqAhJsdldyE+KvYzeR+5hn9xDB7oJUZQ153SUPYfPaQ/4sM+Sxr2G4dpUk2CbXvk6TY1u695oorq/NELstH69bQ+rnRWq2q3t6qp7uD8OpAyPRbObpAAAAAElFTkSuQmCC"
   },
   {
     "name": "waxed_weathered_copper_golem_statue",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEXIdFbCa0yyYkenWkCaUDiQSTHjgmzWe1s3kGrsAAAAb0lEQVR42k3OQQ4DQQwCwQbb+P8/jmZHyYYLKnGBJJvdnCwqAhJsdldyE+KvYzeR+5hn9xDB7oJUZQ153SUPYfPaQ/4sM+Sxr2G4dpUk2CbXvk6TY1u695oorq/NELstH69bQ+rnRWq2q3t6qp7uD8OpAyPRbObpAAAAAElFTkSuQmCC"
   },
   {
     "name": "waxed_oxidized_copper_golem_statue",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGFBMVEXIdFbCa0yyYkenWkCaUDiQSTHjgmzWe1s3kGrsAAAAb0lEQVR42k3OQQ4DQQwCwQbb+P8/jmZHyYYLKnGBJJvdnCwqAhJsdldyE+KvYzeR+5hn9xDB7oJUZQ153SUPYfPaQ/4sM+Sxr2G4dpUk2CbXvk6TY1u695oorq/NELstH69bQ+rnRWq2q3t6qp7uD8OpAyPRbObpAAAAAElFTkSuQmCC"
   },
   {
     "name": "trial_spawner",
